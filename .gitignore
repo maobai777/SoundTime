@@ -1,0 +1,21 @@
+# 编译产物
+bin/
+build/
+*.exe
+*.o
+*.obj
+
+# CMake 生成目录
+CMakeFiles/
+cmake-build-*/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Claude Code 本地配置
+.claude/
+
+# 第三方驱动（VB-Audio Virtual Cable）
+VB-Audio/
